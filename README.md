@@ -124,3 +124,4 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
 
 ## Step 8 - Add picture of pig
+![I think this is how you add a picture??](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F8%2F2%2F6%2F625371.jpg&f=1&nofb=1&ipt=a6f41f1786132622bfa834219b622a463f9ba788c3efca26935922a68a23ff99&ipo=images)
